@@ -12,14 +12,7 @@ You can:
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/proverbs-api.git
-cd proverbs-api
-```
 ### The API will run at:
 👉 http://localhost:8000/api/proverbs/dari
 
