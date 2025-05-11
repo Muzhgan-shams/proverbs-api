@@ -5,15 +5,17 @@
     "proverb": "چا ته دې اور بل کاوه، ځان ته دې ګرمۍ جوړوله",
     "transliteration": "Cha ta de or bal kawa, zaan ta de garmay jawarawala",
     "translation": "You lit a fire for others, but warmed yourself.",
-    "meaning": "Good deeds done for others often benefit oneself too."
+    "meaning": "Good deeds done for others often benefit oneself too.",
+    "category": "Kindness"
   },
   {
     "id": 2,
     "language": "Pashto",
-    "proverb": "د چرګ په بانګ سهار نه کیږي",
-    "transliteration": "Da chorg pa bang sahar na kege",
-    "translation": "Morning doesn't come with a rooster's crow.",
-    "meaning": "Talking doesn't make things happen; action does."
+    "proverb": "غرور سر لوړی ته رسوي، خو غرور انسان غورځوي",
+    "transliteration": "Ghror sar lory ta rasawi, kho ghror insaan ghorzawi",
+    "translation": "Pride reaches heights, but also causes a fall.",
+    "meaning": "Pride leads to downfall.",
+    "category": "Humility"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "proverb": "د چرګ په بانګ سهار نه کیږي",
     "transliteration": "Da chorg pa bang sahar na kege",
     "translation": "Morning doesn't come with a rooster's crow.",
-    "meaning": "Talking doesn't make things happen; action does."
+    "meaning": "Talking doesn't make things happen; action does.",
+    "category": "Action"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "proverb": "له تروږمۍ وروسته، روڼا راځي",
     "transliteration": "La tarwazmay wrusta, rona razi",
     "translation": "After darkness, comes light.",
-    "meaning": "Hard times are followed by better ones."
+    "meaning": "Hard times are followed by better ones.",
+    "category": "Hope"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "proverb": "سپي چې غاپي، چيچل نه کوي",
     "transliteration": "Spi che ghapi, chechal na kawi",
     "translation": "A barking dog seldom bites.",
-    "meaning": "Those who make the most noise are often the least dangerous."
+    "meaning": "Those who make the most noise are often the least dangerous.",
+    "category": "Judgment"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "proverb": "بې غمه خوب خوب دی",
     "transliteration": "Be ghma khwab khwab de",
     "translation": "A sleep without worry is real sleep.",
-    "meaning": "Peace of mind is the best comfort."
+    "meaning": "Peace of mind is the best comfort.",
+    "category": "Peace"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "proverb": "پرې شوې مڼه بېرته ونه ته نه خېژي",
     "transliteration": "Pray shaway mana berta wona ta na khejhi",
     "translation": "A fallen apple doesn't climb back on the tree.",
-    "meaning": "Some actions are irreversible."
+    "meaning": "Some actions are irreversible.",
+    "category": "Consequence"
   },
   {
     "id": 8,
@@ -61,15 +68,17 @@
     "proverb": "هر څوک خپله پوزه د خپلې ګوتې سره پاکوي",
     "transliteration": "Har tsok khpala poza da khpalay gotay sara pakawi",
     "translation": "Everyone wipes their nose with their own finger.",
-    "meaning": "People rely on themselves in hardship."
+    "meaning": "People rely on themselves in hardship.",
+    "category": "Self-Reliance"
   },
   {
     "id": 9,
     "language": "Pashto",
     "proverb": "زړه ته لار شته",
-    "transliteration": "Zra ta lār shta",
+    "transliteration": "Zra ta lar shta",
     "translation": "Where there is a will, there is a way.",
-    "meaning": "Determination makes anything possible."
+    "meaning": "Determination makes anything possible.",
+    "category": "Perseverance"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "proverb": "چې غر خوځيږي، نو خاوره به الوزي",
     "transliteration": "Che ghr khwazighi, no khawra ba ulozi",
     "translation": "When the mountain shakes, dust will fly.",
-    "meaning": "Big actions have visible consequences."
+    "meaning": "Big actions have visible consequences.",
+    "category": "Consequence"
   },
   {
     "id": 11,
@@ -85,39 +95,44 @@
     "proverb": "د کلي د غره غاړه نه ده",
     "transliteration": "Da kali da ghara ghara na de",
     "translation": "The village is not the mountain's edge.",
-    "meaning": "Don't judge a situation by its surface."
+    "meaning": "Don't judge a situation by its surface.",
+    "category": "Judgment"
   },
   {
     "id": 12,
     "language": "Pashto",
     "proverb": "چې کار کاوه، هغه به خطا کاوه",
-    "transliteration": "Che kār kawa, hagha ba khatā kawa",
+    "transliteration": "Che kar kawa, hagha ba khata kawa",
     "translation": "He who works, makes mistakes.",
-    "meaning": "Only those who try make errors — and progress."
+    "meaning": "Only those who try make errors — and progress.",
+    "category": "Effort"
   },
   {
     "id": 13,
     "language": "Pashto",
     "proverb": "له بارانه تېښته، تر سیلابه ورسېده",
-    "transliteration": "La bārānah tēshtah, tar selābah warasēdah",
+    "transliteration": "La baranah teshteh, tar selabah warasedah",
     "translation": "Escaping rain, he reached the flood.",
-    "meaning": "Sometimes you escape one danger only to face a worse one."
+    "meaning": "Sometimes you escape one danger only to face a worse one.",
+    "category": "Fate"
   },
   {
     "id": 14,
     "language": "Pashto",
     "proverb": "سترګې چې ونه وینې، زړه به هېر کړي",
-    "transliteration": "Stargē che na winē, zra ba her kri",
+    "transliteration": "Stargay che na wine, zra ba her kri",
     "translation": "What the eyes don't see, the heart forgets.",
-    "meaning": "Out of sight, out of mind."
+    "meaning": "Out of sight, out of mind.",
+    "category": "Memory"
   },
   {
     "id": 15,
     "language": "Pashto",
     "proverb": "چا چې توره شلوله، هغه به يې زغم کاوه",
-    "transliteration": "Chā che tora shlawla, hagha ba yey zgham kawa",
+    "transliteration": "Cha che tora shlawla, hagha ba yey zgham kawa",
     "translation": "He who unsheathes the sword must bear its burden.",
-    "meaning": "One must take responsibility for their actions."
+    "meaning": "One must take responsibility for their actions.",
+    "category": "Responsibility"
   },
   {
     "id": 16,
@@ -125,38 +140,43 @@
     "proverb": "په زخمونو ملهم لګیږي، پر ژبه نه",
     "transliteration": "Pa zakhmuno marham lagigi, par zaba na",
     "translation": "Wounds can be bandaged, but not the wounds of the tongue.",
-    "meaning": "Words can hurt more deeply than wounds."
+    "meaning": "Words can hurt more deeply than wounds.",
+    "category": "Speech"
   },
   {
     "id": 17,
     "language": "Pashto",
     "proverb": "یو ځانته عقل او دویم ځان ته شپه غواړې",
-    "transliteration": "Yaw zāntah aql ao dweym zāntah shpa ghwāre",
+    "transliteration": "Yaw zantah aql ao dweym zantah shpa ghware",
     "translation": "You want wisdom for yourself and darkness for others.",
-    "meaning": "Selfish people want all the benefit and none for others."
+    "meaning": "Selfish people want all the benefit and none for others.",
+    "category": "Selfishness"
   },
   {
     "id": 18,
     "language": "Pashto",
     "proverb": "غر که له پاسه ښکلی وي، له ښکته سخت وي",
-    "transliteration": "Ghar ka la pāsa shklay we, la shkhta sakht we",
+    "transliteration": "Ghar ka la pasa shklay we, la shkhta sakht we",
     "translation": "The mountain may look beautiful from above but hard from below.",
-    "meaning": "Appearances can be deceiving."
+    "meaning": "Appearances can be deceiving.",
+    "category": "Wisdom"
   },
   {
     "id": 19,
     "language": "Pashto",
     "proverb": "چې لاره نه لري، خدای ته به ژاړي",
-    "transliteration": "Che lara na lari, Khudāy ta ba zharē",
+    "transliteration": "Che lara na lari, Khuday ta ba zhari",
     "translation": "He who has no way cries to God.",
-    "meaning": "In desperation, people turn to faith."
+    "meaning": "In desperation, people turn to faith.",
+    "category": "Faith"
   },
   {
     "id": 20,
     "language": "Pashto",
     "proverb": "په غوږ نه اورېدونکی ته ږغ مه کوه",
-    "transliteration": "Pa ghwag na awridonki ta zgh ma kawah",
+    "transliteration": "Pa ghwag na awredonki ta zgh ma kawah",
     "translation": "Don't speak to one who doesn't listen.",
-    "meaning": "Don’t waste effort on those unwilling to listen."
+    "meaning": "Don’t waste effort on those unwilling to listen.",
+    "category": "Communication"
   }
 ]
