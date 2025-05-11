@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "language": "Dari",
+    "proverb": "قطره قطره دریا می‌شود",
+    "transliteration": "Qatra qatra darya me-shawad",
+    "translation": "Drop by drop, a river is made.",
+    "meaning": "Small efforts accumulate to create significant outcomes."
+  },
+  {
+    "id": 2,
+    "language": "Dari",
+    "proverb": "هیچ گل بی خار نیست",
+    "transliteration": "Heech gul bey khaar neest",
+    "translation": "There is no flower without thorns.",
+    "meaning": "Nothing is perfect; everything has its flaws."
+  },
+  {
+    "id": 3,
+    "language": "Dari",
+    "proverb": "دروغ‌گو حافظه ندارد",
+    "transliteration": "Doroogh-go haafeza nadaarad",
+    "translation": "A liar has no memory.",
+    "meaning": "Liars can't keep track of their lies."
+  },
+  {
+    "id": 4,
+    "language": "Dari",
+    "proverb": "جوینده یابنده است",
+    "transliteration": "Joyenda yaabenda ast",
+    "translation": "The seeker is the finder.",
+    "meaning": "Persistence leads to success."
+  },
+  {
+    "id": 5,
+    "language": "Dari",
+    "proverb": "دو تربوز به یک دست گرفته نمی‌شود",
+    "transliteration": "Do tarbooz ba yak dast gerefta nemi-shawad",
+    "translation": "You can't hold two watermelons in one hand.",
+    "meaning": "You can't pursue two goals at once without compromising."
+  },
+  {
+    "id": 6,
+    "language": "Dari",
+    "proverb": "سیلی نقد بهتر از حلوای نسیه است",
+    "transliteration": "Sile naqhd behtar az halwai nasia ast",
+    "translation": "A slap in cash is better than sweet on credit.",
+    "meaning": "A certain but harsh truth is better than a sweet promise."
+  },
+  {
+    "id": 7,
+    "language": "Dari",
+    "proverb": "گربه برای رضای خدا موش نمی‌گیرد",
+    "transliteration": "Gorba barā-ye rezā-ye Khodā moosh na-megīrad",
+    "translation": "The cat doesn't catch mice for God's pleasure.",
+    "meaning": "People usually act out of self-interest."
+  },
+  {
+    "id": 8,
+    "language": "Dari",
+    "proverb": "مار گزیده از ریسمان سیاه و سفید می‌ترسد",
+    "transliteration": "Mār gazida az resmān-e siyāh wa sefid mi-tarsad",
+    "translation": "A snake-bitten person fears even a black and white rope.",
+    "meaning": "One who has suffered is easily frightened again."
+  },
+  {
+    "id": 9,
+    "language": "Dari",
+    "proverb": "آب که از سر گذشت، چه یک نی چه صد نی",
+    "transliteration": "Āb ke az sar gozasht, che yak ney che sad ney",
+    "translation": "Once the water passes the head, one reed or a hundred doesn't matter.",
+    "meaning": "When something is ruined, more damage makes no difference."
+  },
+  {
+    "id": 10,
+    "language": "Dari",
+    "proverb": "هر که بامش بیش برفش بیشتر",
+    "transliteration": "Har ke bāmash bīsh, barfash bīsh-tar",
+    "translation": "He who has a bigger roof, gets more snow.",
+    "meaning": "With greater wealth or status come more responsibilities."
+  },
+  {
+    "id": 11,
+    "language": "Dari",
+    "proverb": "از دل برود آنچه از دیده برود",
+    "transliteration": "Az dil berawad ān che az dīde berawad",
+    "translation": "Out of sight, out of mind.",
+    "meaning": "What you don't see, you forget."
+  },
+  {
+    "id": 12,
+    "language": "Dari",
+    "proverb": "دوستی که در سختی به یاری نیاید، در خوشی به چهارایی می‌آید",
+    "transliteration": "Dosti ke dar sakhti be yāri nayāyad, dar khushi be chahārāyi miāyad",
+    "translation": "A friend who doesn't help in hardship will come to enjoy in happiness.",
+    "meaning": "True friends are those who support you in tough times."
+  },
+  {
+    "id": 23,
+    "language": "Dari",
+    "proverb": "کار امروز را به فردا مسپار",
+    "transliteration": "Kār-e emrooz rā ba fardā maspār",
+    "translation": "Don’t leave today’s work for tomorrow.",
+    "meaning": "Avoid procrastination; do your work now."
+  },
+  {
+    "id": 13,
+    "language": "Dari",
+    "proverb": "باد آورده را باد می‌برد",
+    "transliteration": "Bād āwarda rā bād mibarad",
+    "translation": "What the wind brings, the wind can take away.",
+    "meaning": "Easy come, easy go."
+  },
+  {
+    "id": 14,
+    "language": "Dari",
+    "proverb": "هر که خربوزه می‌خورد، پای لرزش هم باید بنشیند",
+    "transliteration": "Har ke kharboza mekhorad, pāy-e larzesh ham bāyad beneshinad",
+    "translation": "Whoever eats the melon must endure its trembling.",
+    "meaning": "You must accept the consequences of your choices."
+  },
+  {
+    "id": 15,
+    "language": "Dari",
+    "proverb": "یک کلاغ، چهل کلاغ می‌شود",
+    "transliteration": "Yak kalāgh, chehel kalāgh mishawad",
+    "translation": "One crow becomes forty crows.",
+    "meaning": "Rumors and stories tend to exaggerate over time."
+  },
+  {
+    "id": 16,
+    "language": "Dari",
+    "proverb": "چراغی که به خانه رواست، به مسجد حرام است",
+    "transliteration": "Cherāghi ke ba khāna rawāst, ba masjed harām ast",
+    "translation": "A lamp needed at home is forbidden for the mosque.",
+    "meaning": "Charity begins at home."
+  },
+  {
+    "id": 17,
+    "language": "Dari",
+    "proverb": "هر چه کنی به خود کنی، گر همه نیک و بد کنی",
+    "transliteration": "Har che kuni ba khod kuni, gar hama neek o bad kuni",
+    "translation": "Whatever you do, you do to yourself — good or bad.",
+    "meaning": "Your actions have consequences for you."
+  },
+  {
+    "id": 18,
+    "language": "Dari",
+    "proverb": "دزد با چراغ آید، گزیده‌تر برد کالا",
+    "transliteration": "Dozd bā cherāgh āyad, gazida-tar barad kālā",
+    "translation": "The thief comes with a lamp — chooses the best goods.",
+    "meaning": "The most dangerous people are those who appear wise or prepared."
+  },
+  {
+    "id": 19,
+    "language": "Dari",
+    "proverb": "شتر در خواب بیند پنبه دانه",
+    "transliteration": "Shotor dar khwāb bīnad panba dāna",
+    "translation": "The camel dreams of cotton seeds.",
+    "meaning": "Wishful thinking won’t make dreams come true."
+  },
+
+  {
+    "id": 20,
+    "language": "Dari",
+    "proverb": "آب در کوزه و ما تشنه لبانیم",
+    "transliteration": "Āb dar kuze wa mā tashna labānīm",
+    "translation": "Water is in the pitcher, and we are thirsty.",
+    "meaning": "Sometimes the solution is right in front of us, yet we fail to see it."
+  },
+  {
+    "id": 21,
+    "language": "Dari",
+    "proverb": "هر که درختی بکارد، سایه‌اش را درو می‌کند",
+    "transliteration": "Har ke derakhti bokārad, sāye-ash rā daru mikonad",
+    "translation": "Whoever plants a tree will harvest its shade.",
+    "meaning": "Your efforts will yield benefits in the future."
+  },
+  {
+    "id": 22,
+    "language": "Dari",
+    "proverb": "دیگ به دیگ می‌گوید رویت سیاه",
+    "transliteration": "Deg ba deg mīguyad rooyat siyāh",
+    "translation": "The pot says to the kettle: your face is black.",
+    "meaning": "People criticize others for flaws they also have."
+  },
+  {
+    "id": 23,
+    "language": "Dari",
+    "proverb": "گندم از گندم بروید، جو ز جو",
+    "transliteration": "Gandum az gandum barāyad, jaw ze jaw",
+    "translation": "Wheat grows from wheat, barley from barley.",
+    "meaning": "You reap what you sow."
+  },
+  {
+    "id": 24,
+    "language": "Dari",
+    "proverb": "با یک گل بهار نمی‌شود",
+    "transliteration": "Bā yak gul bahār nemishawad",
+    "translation": "One flower does not make a spring.",
+    "meaning": "One good deed or person isn't enough to create change."
+  },
+  {
+    "id": 25,
+    "language": "Dari",
+    "proverb": "هر گلی خاری دارد",
+    "transliteration": "Har guli khāri dārad",
+    "translation": "Every rose has its thorn.",
+    "meaning": "Nothing is perfect — beauty comes with challenges."
+  },
+
+  {
+    "id": 26,
+    "language": "Dari",
+    "proverb": "دل به دل راه دارد",
+    "transliteration": "Del ba del rāh dārad",
+    "translation": "There is a way from heart to heart.",
+    "meaning": "True feelings are mutually understood without words."
+  },
+
+  {
+    "id": 27,
+    "language": "Dari",
+    "proverb": "مرغ همسایه غاز است",
+    "transliteration": "Morgh-e hamsāya ghāz ast",
+    "translation": "The neighbor’s chicken is a goose.",
+    "meaning": "Other people’s possessions often seem better."
+  },
+  {
+    "id": 28,
+    "language": "Dari",
+    "proverb": "سنگ بزرگ علامت نزدن است",
+    "transliteration": "Sang-e bozorg alāmat-e nazadan ast",
+    "translation": "A big stone means you won’t throw it.",
+    "meaning": "Overpromising usually leads to inaction."
+  }
+]

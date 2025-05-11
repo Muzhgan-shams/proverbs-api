@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "language": "Pashto",
+    "proverb": "چا ته دې اور بل کاوه، ځان ته دې ګرمۍ جوړوله",
+    "transliteration": "Cha ta de or bal kawa, zaan ta de garmay jawarawala",
+    "translation": "You lit a fire for others, but warmed yourself.",
+    "meaning": "Good deeds done for others often benefit oneself too."
+  },
+  {
+    "id": 2,
+    "language": "Pashto",
+    "proverb": "غرور سر لوړی ته رسوي، خو غرور انسان غورځوي",
+    "transliteration": "Ghror sar lory ta rasawi, kho ghror insaan ghorzawi",
+    "translation": "Pride reaches heights, but also causes a fall.",
+    "meaning": "Pride leads to downfall."
+  },
+  {
+    "id": 3,
+    "language": "Pashto",
+    "proverb": "د چرګ په بانګ سهار نه کیږي",
+    "transliteration": "Da chorg pa bang sahar na kege",
+    "translation": "Morning doesn't come with a rooster's crow.",
+    "meaning": "Talking doesn't make things happen; action does."
+  },
+  {
+    "id": 4,
+    "language": "Pashto",
+    "proverb": "له تروږمۍ وروسته، روڼا راځي",
+    "transliteration": "La tarwazmay wrusta, rona razi",
+    "translation": "After darkness, comes light.",
+    "meaning": "Hard times are followed by better ones."
+  },
+  {
+    "id": 5,
+    "language": "Pashto",
+    "proverb": "سپي چې غاپي، چيچل نه کوي",
+    "transliteration": "Spi che ghapi, chechal na kawi",
+    "translation": "A barking dog seldom bites.",
+    "meaning": "Those who make the most noise are often the least dangerous."
+  },
+  {
+    "id": 6,
+    "language": "Pashto",
+    "proverb": "بې غمه خوب خوب دی",
+    "transliteration": "Be ghma khwab khwab de",
+    "translation": "A sleep without worry is real sleep.",
+    "meaning": "Peace of mind is the best comfort."
+  },
+  {
+    "id": 7,
+    "language": "Pashto",
+    "proverb": "پرې شوې مڼه بېرته ونه ته نه خېژي",
+    "transliteration": "Pray shaway mana berta wona ta na khejhi",
+    "translation": "A fallen apple doesn't climb back on the tree.",
+    "meaning": "Some actions are irreversible."
+  },
+  {
+    "id": 8,
+    "language": "Pashto",
+    "proverb": "هر څوک خپله پوزه د خپلې ګوتې سره پاکوي",
+    "transliteration": "Har tsok khpala poza da khpalay gotay sara pakawi",
+    "translation": "Everyone wipes their nose with their own finger.",
+    "meaning": "People rely on themselves in hardship."
+  },
+  {
+    "id": 9,
+    "language": "Pashto",
+    "proverb": "زړه ته لار شته",
+    "transliteration": "Zra ta lār shta",
+    "translation": "Where there is a will, there is a way.",
+    "meaning": "Determination makes anything possible."
+  },
+  {
+    "id": 10,
+    "language": "Pashto",
+    "proverb": "چې غر خوځيږي، نو خاوره به الوزي",
+    "transliteration": "Che ghr khwazighi, no khawra ba ulozi",
+    "translation": "When the mountain shakes, dust will fly.",
+    "meaning": "Big actions have visible consequences."
+  },
+  {
+    "id": 11,
+    "language": "Pashto",
+    "proverb": "د کلي د غره غاړه نه ده",
+    "transliteration": "Da kali da ghara ghara na de",
+    "translation": "The village is not the mountain's edge.",
+    "meaning": "Don't judge a situation by its surface."
+  },
+  {
+    "id": 12,
+    "language": "Pashto",
+    "proverb": "چې کار کاوه، هغه به خطا کاوه",
+    "transliteration": "Che kār kawa, hagha ba khatā kawa",
+    "translation": "He who works, makes mistakes.",
+    "meaning": "Only those who try make errors — and progress."
+  },
+  {
+    "id": 13,
+    "language": "Pashto",
+    "proverb": "له بارانه تېښته، تر سیلابه ورسېده",
+    "transliteration": "La bārānah tēshtah, tar selābah warasēdah",
+    "translation": "Escaping rain, he reached the flood.",
+    "meaning": "Sometimes you escape one danger only to face a worse one."
+  },
+
+  {
+    "id": 14,
+    "language": "Pashto",
+    "proverb": "سترګې چې ونه وینې، زړه به هېر کړي",
+    "transliteration": "Stargē che na winē, zra ba her kri",
+    "translation": "What the eyes don't see, the heart forgets.",
+    "meaning": "Out of sight, out of mind."
+  },
+  {
+    "id": 15,
+    "language": "Pashto",
+    "proverb": "چا چې توره شلوله، هغه به يې زغم کاوه",
+    "transliteration": "Chā che tora shlawla, hagha ba yey zgham kawa",
+    "translation": "He who unsheathes the sword must bear its burden.",
+    "meaning": "One must take responsibility for their actions."
+  },
+  {
+    "id": 16,
+    "language": "Pashto",
+    "proverb": "په زخمونو ملهم لګیږي، پر ژبه نه",
+    "transliteration": "Pa zakhmuno marham lagigi, par zaba na",
+    "translation": "Wounds can be bandaged, but not the wounds of the tongue.",
+    "meaning": "Words can hurt more deeply than wounds."
+  },
+  {
+    "id": 17,
+    "language": "Pashto",
+    "proverb": "یو ځانته عقل او دویم ځان ته شپه غواړې",
+    "transliteration": "Yaw zāntah aql ao dweym zāntah shpa ghwāre",
+    "translation": "You want wisdom for yourself and darkness for others.",
+    "meaning": "Selfish people want all the benefit and none for others."
+  },
+  {
+    "id": 18,
+    "language": "Pashto",
+    "proverb": "غر که له پاسه ښکلی وي، له ښکته سخت وي",
+    "transliteration": "Ghar ka la pāsa shklay we, la shkhta sakht we",
+    "translation": "The mountain may look beautiful from above but hard from below.",
+    "meaning": "Appearances can be deceiving."
+  },
+  {
+    "id": 19,
+    "language": "Pashto",
+    "proverb": "چې لاره نه لري، خدای ته به ژاړي",
+    "transliteration": "Che lara na lari, Khudāy ta ba zharē",
+    "translation": "He who has no way cries to God.",
+    "meaning": "In desperation, people turn to faith."
+  },
+  {
+    "id": 20,
+    "language": "Pashto",
+    "proverb": "په غوږ نه اورېدونکی ته ږغ مه کوه",
+    "transliteration": "Pa ghwag na awridonki ta zgh ma kawah",
+    "translation": "Don't speak to one who doesn't listen.",
+    "meaning": "Don’t waste effort on those unwilling to listen."
+  }
+]
