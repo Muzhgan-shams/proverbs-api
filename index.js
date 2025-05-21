@@ -14,7 +14,7 @@ app.use(
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
   })
 );
-app.use('/api/proverbs', proverbsRouter);
+// app.use('/api/proverbs', proverbsRouter);
 app.get('/', (req, res) => {
   res.send('API is live ✅');
 });
