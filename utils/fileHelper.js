@@ -1,8 +1,7 @@
-import fs from 'fs';
+import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// Get __dirname and __filename
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -11,13 +10,18 @@ export function getFilePath(language, isUser = true) {
   return path.join(__dirname, '../data', filename);
 }
 
-export function loadProverbs(language, isUser = true) {
+export async function loadProverbs(language, isUser = true) {
   const filePath = getFilePath(language, isUser);
-  if (!fs.existsSync(filePath)) return [];
-  return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  try {
+    await fs.access(filePath);
+    const content = await fs.readFile(filePath, 'utf8');
+    return JSON.parse(content);
+  } catch {
+    return [];
+  }
 }
 
-export function saveProverbs(language, data) {
+export async function saveProverbs(language, data) {
   const filePath = getFilePath(language, true);
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+  await fs.writeFile(filePath, JSON.stringify(data, null, 2));
 }
