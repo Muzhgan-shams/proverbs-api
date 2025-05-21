@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import proverbsRouter from './routes/proverbs.js';
-
+console.log('Server booting…');
 const port = process.env.PORT || 3000;
 
 const app = express();
