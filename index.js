@@ -15,6 +15,9 @@ app.use(
   })
 );
 app.use('/api/proverbs', proverbsRouter);
+app.get('/', (req, res) => {
+  res.send('API is live ✅');
+});
 
 // app.use('/api/posts', posts);
 // // Error Handling Middleware
