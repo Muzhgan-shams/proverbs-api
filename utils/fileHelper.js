@@ -8,13 +8,7 @@ const __dirname = path.dirname(__filename);
 
 export function getFilePath(language, isUser = true) {
   const filename = isUser ? `${language}-user.json` : `${language}.json`;
-  if (isUser) {
-    // Save user files in /tmp (writable on Railway)
-    return path.join('/tmp', filename);
-  } else {
-    // Original files inside data folder
-    return path.join(__dirname, '../data', filename);
-  }
+  return path.join(__dirname, '../data', filename);
 }
 
 export function loadProverbs(language, isUser = true) {
