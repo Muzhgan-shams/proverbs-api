@@ -8,12 +8,7 @@ const __dirname = path.dirname(__filename);
 
 export function getFilePath(language, isUser = true) {
   const filename = isUser ? `${language}-user.json` : `${language}.json`;
-
-  // Store editable files in /tmp when running on Railway
-  const writableDir = process.env.RAILWAY_ENVIRONMENT_NAME
-    ? '/tmp'
-    : path.join(__dirname, '../data');
-  return path.join(writableDir, filename);
+  return path.join(__dirname, '../data', filename);
 }
 
 export function loadProverbs(language, isUser = true) {
