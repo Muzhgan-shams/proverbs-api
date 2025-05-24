@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 // import proverbsRouter from './routes/proverbs.js';
-import { loadProverbs, saveProverbs } from '../utils/fileHelper.js';
+import { loadProverbs, saveProverbs } from './utils/fileHelper.js';
 
 const port = process.env.PORT || 3000;
 
